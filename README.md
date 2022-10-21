@@ -1,2 +1,2 @@
 # JAVA-PRO
-MorozVitaly_Hillel_JAVA-PRO_HW1
+MorozVitaly_Hillel_Java-Pro_HW1
